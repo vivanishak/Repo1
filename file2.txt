@@ -1,3 +1,4 @@
 file add
 adding something to file2
 Added to file2
+new changes
